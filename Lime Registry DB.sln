@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lime Registry DB", "Lime Registry DB\Lime Registry DB.csproj", "{2D389BD9-E9AE-453B-B1A2-E116656AA0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D389BD9-E9AE-453B-B1A2-E116656AA0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D389BD9-E9AE-453B-B1A2-E116656AA0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D389BD9-E9AE-453B-B1A2-E116656AA0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D389BD9-E9AE-453B-B1A2-E116656AA0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A00870-565B-4AA3-89DA-626F9ECB0BC6}
+	EndGlobalSection
+EndGlobal
